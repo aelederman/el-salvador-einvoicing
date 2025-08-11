@@ -4,7 +4,8 @@ This folder should contain the raw data files downloaded from the El Salvador Mi
 These files are not included in this repository due to size and access constraints.
 See below for download instructions:
 
+Go to the below website, select "Datos Abiertos", then next to "Ingresos por Impuestos" select "DESCARGAR.CSV"
+
 **Source:** [https://transparencia.gob.sv/](https://transparencia.gob.sv/)
-# Select "Datos Abiertos", then next to "Ingresos por Impuestos" click "DESCARGAR.CSV"
 **Date accessed:** June 20, 2025
 **Required files:** 2021 to 2025 (May 2025)
