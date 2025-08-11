@@ -1,0 +1,10 @@
+# Raw data instructions:
+
+This folder should contain the raw data files downloaded from the El Salvador Ministry of Finance Transparency Portal.
+These files are not included in this repository due to size and access constraints.
+See below for download instructions:
+
+**Source:** [https://transparencia.gob.sv/](https://transparencia.gob.sv/)
+# Select "Datos Abiertos", then next to "Ingresos por Impuestos" click "DESCARGAR.CSV"
+**Date accessed:** June 20, 2025
+**Required files:** 2021 to 2025 (May 2025)
