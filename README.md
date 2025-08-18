@@ -2,7 +2,7 @@
 Grant-funded through the William & Mary Charles Center Summer Research Grant, this faculty-advised study (Advisor: Prof. Andrew Dustan) analyzes El Salvador’s staggered e-invoicing rollout (2023–2025) using Callaway & Sant’Anna (2021) DiD.
 
 **Headline result:** Early evidence shows no significant VAT revenue gains among larger firms, who already had high compliance and digital adoption. Estimates are presented with event-study confidence bands.
-![Main Figure](paper/att_remittance.png)
+![Main Figure](data/analysis/att_remittance.png)
 
 ## Quick start
 1) Install R >= 4.4.1 and RStudio
